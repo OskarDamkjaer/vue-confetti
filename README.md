@@ -12,7 +12,7 @@
 ## Installation
 
 ```
-yarn install vue-confetti --save
+yarn add vue-confetti
 ```
 
 ## Usage
